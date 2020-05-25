@@ -1,5 +1,12 @@
-# SimonGameChallenge
+# NASA-API-CHALLENGE
 
 Simon is a game of memory skill.
 
-You can play it on this <a href="https://waldemarciupa.github.io/SimonGameChallenge/">site</a>!
+## Demo
+Click the link - https://waldemarciupa.github.io/SimonGameChallenge/
+
+## Technologies
+Project is created with:
+* HTML
+* CSS
+* JavaScript
